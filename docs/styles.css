@@ -80,7 +80,8 @@ li {
   color: var(--muted);
 }
 
-ul {
+ul,
+ol {
   padding-left: 22px;
 }
 
